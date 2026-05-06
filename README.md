@@ -1,4 +1,4 @@
-# Hugo Lab Website Starter
+# Hugo Lab Website Starter 1
 
 This is a minimal Hugo starter for an academic research group website with pages for:
 
